@@ -1,0 +1,6 @@
+{
+    "watch": ["./"],  
+    "ext": "ts",      
+    "exec": "npx ts-node --project tsconfig.json index.ts"  
+  }
+  
